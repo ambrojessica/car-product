@@ -116,6 +116,11 @@ body {
     color: #edf2f4; 
   }
   
+  .goal img {
+    width: 50%;
+  }
+  
+
   .goal p {
     padding: 2% 5% 3% 5%;
   }
@@ -220,6 +225,10 @@ body {
   }
   
   /* headshot pics */
+  .reps {
+    text-align: center;
+    }
+
   .presidents {
     display: flex;
     justify-content: center;
@@ -236,7 +245,7 @@ body {
     display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-   justify-content: center;
+  justify-content: center;
     align-items: center;
   }
   
